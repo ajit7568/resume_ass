@@ -14,8 +14,9 @@
     <a href="https://Follow Us.com">Github</a>
     <hr>
 
-    <!-- Experience Section -->
-    <h2>Experience</h2>
+    
+    
+  <h2>Experience</h2>
     <h3>Software developer at Amazon</h3>
     <p>I work with amazon in the transportation team, some more description Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, ullam!  Maxime officiis consequuntur libero eaque reprehenderit quisquam nam ab vitae totam id commodi laborum enim, sint ea odit quasi soluta! <br>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident iusto ut praesentium modi. Incidunt atque voluptatem, dignissimos officiis reprehenderit est!</p>
@@ -25,7 +26,7 @@
     <hr>
 
     <!-- Skills Section -->
-    <h2>Skills</h2>
+ <h2>Skills</h2>
     <ul>
         <li>Java</li>
         <li>JavaScript</li>
@@ -36,7 +37,7 @@
     <hr>
 
     <!-- Hobbies Section -->
-    <h2>Hobbies</h2>
+ <h2>Hobbies</h2>
     <ol>
         <li>Table Tennis</li>
         <li>Reading Books</li>
@@ -45,7 +46,7 @@
     </ol>
 
     <!-- Projects Section -->
-    <h2>Projects</h2>
+ <h2>Projects</h2>
     <dl>
         <dt>Project-1</dt>
         <dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, provident? Voluptatem quos dignissimos velit quia, assumenda molestiae hic, maiores, corporis a tempore perferendis repellendus quod modi non quo ipsam laboriosam consectetur voluptates quibusdam facilis nisi unde libero? Pariatur, recusandae aspernatur.</dd>
@@ -55,7 +56,7 @@
     <hr>
 
     <!-- Contact Details Section -->
-    <pre>
+ <pre>
         Contact Details 
         Email:abc@gamil.com 
         Mobile no. :8448xxxx18</pre>
