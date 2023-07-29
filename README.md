@@ -1,4 +1,6 @@
 # resume_ass
+<!-- hosted link -->
+https://ajit7568.github.io/resume_ass/
 <!DOCTYPE html>
 <html lang="en">
 <head>
